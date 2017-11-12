@@ -1,0 +1,7 @@
+Happiness:delighted,happy,euphoric,joyful,cheerful,amused,beaming,blissful,content,glad,pleasure,merry,heartwarming,high,lovely,satisfied,rejoiced
+Exitement:energized,fly,exited,vibrant,sparkle,alacrity,enthusiastic,zealous,fiery,keen,eager,passionate,ecstasy,wonder,dynamic
+Fear:scared,terrified,horrified,dread,frightened,worried,afraid,threatened,startled,stunned,shocked,creeped-out
+Relief/relaxation:comforted,relieved,rested,sleep,refreshed,asleep,relaxed,easement,meditating,finally,soothing,de-stress,thank,snoozy
+Depression/sadness:disorder,breakdown,depressant,dieing,broken,suicide,desperate,demoralized,defeated,crying,devastated,distressed,helpless,hurt,lonely,insecure,miserable,sad,wounded,vulnerable,end,lifeless,melancholy,sad,misery,sorrowful,depressed,beat,unwanted,lost
+Fatigue:exhausted,tired,weary,fatigued,sleepiness,yawn,ache,beat,faint,drained,energyless,inanimate,powerless,sick,drowsy,lazy
+
